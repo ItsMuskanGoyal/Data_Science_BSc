@@ -1,0 +1,398 @@
+{
+  "cjwRyes40ASWG5ctezFT5TBoId22": {
+    "details": {
+      "benefits": [
+        "Health Insurance",
+        "Flexible Hours",
+        "Remote Work"
+      ],
+      "companyType": "Public",
+      "description": "A leading tech company",
+      "foundedYear": 2000,
+      "industry": "Technology",
+      "location": "City, Country",
+      "logo": "",
+      "name": "Google ABC",
+      "revenue": "$1 Billion",
+      "size": "Large",
+      "tagline": "We are the best",
+      "website": "https://www.companyabc.com"
+    },
+    "jobRoles": {
+      "role_id_1": {
+        "eligibilityCriteria": "Bachelor's degree in Computer Science...",
+        "employmentType": "Full-time",
+        "experienceRequired": "2+ years",
+        "location": "City, Country",
+        "name": "Software Engineer",
+        "openings": 5,
+        "responsibilities": [
+          "Develop and maintain software applications",
+          "Collaborate with cross-functional teams"
+        ],
+        "salaryRange": "$80,000 - $100,000",
+        "skillsRequired": [
+          "Java",
+          "JavaScript",
+          "React"
+        ]
+      },
+      "role_id_2": {
+        "eligibilityCriteria": "Bachelor's degree in Computer Science...",
+        "employmentType": "Full-time",
+        "experienceRequired": "2+ years",
+        "location": "City, Country",
+        "name": "Software Engineer",
+        "openings": 5,
+        "responsibilities": [
+          "Develop and maintain software applications",
+          "Collaborate with cross-functional teams"
+        ],
+        "salaryRange": "$80,000 - $100,000",
+        "skillsRequired": [
+          "Java",
+          "JavaScript",
+          "React"
+        ]
+      }
+    },
+    "meetDetails": {
+      "hrDetails": {
+        "email": "john.doe@companyabc.com",
+        "name": "John Doe",
+        "phone": "+1 123-456-7892"
+      },
+      "meetLink": "https://meet.companyabc.com",
+      "otherMembers": {
+        "member_id_1": {
+          "email": "jane.smith@companyabc.com",
+          "name": "Jane Smith",
+          "phone": "+1 123-456-7893"
+        }
+      }
+    },
+    "reviews": {
+      "review_id_1": {
+        "comment": "Great work culture and opportunities for growth",
+        "rating": 4.5,
+        "user": "user_id_1"
+      }
+    }
+  },
+  "company_id_1": {
+    "details": {
+      "benefits": [
+        "Health Insurance",
+        "Flexible Hours",
+        "Remote Work"
+      ],
+      "companyType": "Public",
+      "description": "A leading tech company",
+      "foundedYear": 2000,
+      "industry": "Technology",
+      "location": "City, Country",
+      "logo": "",
+      "name": "Company ABC",
+      "revenue": "$1 Billion",
+      "size": "Large",
+      "tagline": "We are the best",
+      "website": "https://www.companyabc.com"
+    },
+    "jobRoles": {
+      "role_id_1": {
+        "eligibilityCriteria": "Bachelor's degree in Computer Science...",
+        "employmentType": "Full-time",
+        "experienceRequired": "2+ years",
+        "location": "City, Country",
+        "name": "Software Engineer",
+        "openings": 5,
+        "responsibilities": [
+          "Develop and maintain software applications",
+          "Collaborate with cross-functional teams"
+        ],
+        "salaryRange": "$80,000 - $100,000",
+        "skillsRequired": [
+          "Java",
+          "JavaScript",
+          "React"
+        ]
+      },
+      "role_id_2": {
+        "eligibilityCriteria": "Bachelor's degree in Computer Science...",
+        "employmentType": "Full-time",
+        "experienceRequired": "2+ years",
+        "location": "City, Country",
+        "name": "Software Engineer",
+        "openings": 5,
+        "responsibilities": [
+          "Develop and maintain software applications",
+          "Collaborate with cross-functional teams"
+        ],
+        "salaryRange": "$80,000 - $100,000",
+        "skillsRequired": [
+          "Java",
+          "JavaScript",
+          "React"
+        ]
+      }
+    },
+    "meetDetails": {
+      "hrDetails": {
+        "email": "john.doe@companyabc.com",
+        "name": "John Doe",
+        "phone": "+1 123-456-7892"
+      },
+      "meetLink": "https://meet.companyabc.com",
+      "otherMembers": {
+        "member_id_1": {
+          "email": "jane.smith@companyabc.com",
+          "name": "Jane Smith",
+          "phone": "+1 123-456-7893"
+        }
+      }
+    },
+    "reviews": {
+      "review_id_1": {
+        "comment": "Great work culture and opportunities for growth",
+        "rating": 4.5,
+        "user": "user_id_1"
+      }
+    }
+  },
+  "company_id_2": {
+    "details": {
+      "benefits": [
+        "Health Insurance",
+        "Flexible Hours",
+        "Remote Work"
+      ],
+      "companyType": "Public",
+      "description": "A leading tech company",
+      "foundedYear": 2000,
+      "industry": "Technology",
+      "location": "City, Country",
+      "name": "Company ABC",
+      "revenue": "$1 Billion",
+      "size": "Large",
+      "website": "https://www.companyabc.com"
+    },
+    "jobRoles": {
+      "role_id_1": {
+        "eligibilityCriteria": "Bachelor's degree in Computer Science...",
+        "employmentType": "Full-time",
+        "experienceRequired": "2+ years",
+        "location": "City, Country",
+        "name": "Software Engineer",
+        "openings": 5,
+        "responsibilities": [
+          "Develop and maintain software applications",
+          "Collaborate with cross-functional teams"
+        ],
+        "salaryRange": "$80,000 - $100,000",
+        "skillsRequired": [
+          "Java",
+          "JavaScript",
+          "React"
+        ]
+      },
+      "role_id_2": {
+        "eligibilityCriteria": "Bachelor's degree in Computer Science...",
+        "employmentType": "Full-time",
+        "experienceRequired": "2+ years",
+        "location": "City, Country",
+        "name": "Software Engineer",
+        "openings": 5,
+        "responsibilities": [
+          "Develop and maintain software applications",
+          "Collaborate with cross-functional teams"
+        ],
+        "salaryRange": "$80,000 - $100,000",
+        "skillsRequired": [
+          "Java",
+          "JavaScript",
+          "React"
+        ]
+      }
+    },
+    "meetDetails": {
+      "hrDetails": {
+        "email": "john.doe@companyabc.com",
+        "name": "John Doe",
+        "phone": "+1 123-456-7892"
+      },
+      "meetLink": "https://meet.companyabc.com",
+      "otherMembers": {
+        "member_id_1": {
+          "email": "jane.smith@companyabc.com",
+          "name": "Jane Smith",
+          "phone": "+1 123-456-7893"
+        }
+      }
+    },
+    "reviews": {
+      "review_id_1": {
+        "comment": "Great work culture and opportunities for growth",
+        "rating": 4.5,
+        "user": "user_id_1"
+      }
+    }
+  },
+  "company_id_3": {
+    "details": {
+      "benefits": [
+        "Health Insurance",
+        "Flexible Hours",
+        "Remote Work"
+      ],
+      "companyType": "Public",
+      "description": "A leading tech company specializing in innovation.",
+      "foundedYear": 1995,
+      "industry": "Technology",
+      "location": "Silicon Valley, USA",
+      "logo": "https://example.com/logos/tech_innovators.png",
+      "name": "Tech Innovators Inc.",
+      "revenue": "$5 Billion",
+      "size": "Large",
+      "tagline": "Shaping the Future",
+      "website": "https://www.techinnovators.com"
+    },
+    "jobRoles": {
+      "role_id_1": {
+        "eligibilityCriteria": "Bachelor's degree in Computer Science...",
+        "employmentType": "Full-time",
+        "experienceRequired": "3+ years",
+        "location": "Silicon Valley, USA",
+        "name": "Software Engineer",
+        "openings": 10,
+        "responsibilities": [
+          "Develop and maintain software applications",
+          "Collaborate with cross-functional teams"
+        ],
+        "salaryRange": "$90,000 - $120,000",
+        "skillsRequired": [
+          "Java",
+          "JavaScript",
+          "React"
+        ]
+      },
+      "role_id_2": {
+        "eligibilityCriteria": "Master's degree in Data Science...",
+        "employmentType": "Full-time",
+        "experienceRequired": "2+ years",
+        "location": "Silicon Valley, USA",
+        "name": "Data Scientist",
+        "openings": 5,
+        "responsibilities": [
+          "Analyze and interpret complex data sets",
+          "Develop data models"
+        ],
+        "salaryRange": "$100,000 - $130,000",
+        "skillsRequired": [
+          "Python",
+          "Machine Learning",
+          "Data Visualization"
+        ]
+      }
+    },
+    "meetDetails": {
+      "hrDetails": {
+        "email": "alice.johnson@techinnovators.com",
+        "name": "Alice Johnson",
+        "phone": "+1 123-456-7890"
+      },
+      "meetLink": "https://meet.techinnovators.com",
+      "otherMembers": {
+        "member_id_1": {
+          "email": "bob.smith@techinnovators.com",
+          "name": "Bob Smith",
+          "phone": "+1 123-456-7891"
+        }
+      }
+    },
+    "reviews": {
+      "review_id_1": {
+        "comment": "Great work culture and opportunities for growth",
+        "rating": 4.5,
+        "user": "user_id_1"
+      }
+    }
+  },
+  "company_id_4": {
+    "details": {
+      "benefits": [
+        "Health Insurance",
+        "Flexible Hours",
+        "Employee Stock Options"
+      ],
+      "companyType": "Private",
+      "description": "A global leader in providing innovative business solutions.",
+      "foundedYear": 2005,
+      "industry": "Technology",
+      "location": "London, UK",
+      "name": "Innovative Solutions Ltd.",
+      "revenue": "$2 Billion",
+      "size": "Medium",
+      "website": "https://www.innovativesolutions.com"
+    },
+    "jobRoles": {
+      "role_id_1": {
+        "eligibilityCriteria": "Bachelor's degree in Computer Science...",
+        "employmentType": "Full-time",
+        "experienceRequired": "2+ years",
+        "location": "London, UK",
+        "name": "Web Developer",
+        "openings": 8,
+        "responsibilities": [
+          "Design and implement web applications",
+          "Collaborate with UX/UI designers"
+        ],
+        "salaryRange": "$70,000 - $90,000",
+        "skillsRequired": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ]
+      },
+      "role_id_2": {
+        "eligibilityCriteria": "Bachelor's degree in Cybersecurity...",
+        "employmentType": "Full-time",
+        "experienceRequired": "3+ years",
+        "location": "London, UK",
+        "name": "IT Security Analyst",
+        "openings": 3,
+        "responsibilities": [
+          "Monitor and analyze security incidents",
+          "Implement security measures"
+        ],
+        "salaryRange": "$80,000 - $100,000",
+        "skillsRequired": [
+          "Network Security",
+          "Security Protocols",
+          "Incident Response"
+        ]
+      }
+    },
+    "meetDetails": {
+      "hrDetails": {
+        "email": "emma.thompson@innovativesolutions.com",
+        "name": "Emma Thompson",
+        "phone": "+44 20 1234 5678"
+      },
+      "meetLink": "https://meet.innovativesolutions.com",
+      "otherMembers": {
+        "member_id_1": {
+          "email": "oliver.davis@innovativesolutions.com",
+          "name": "Oliver Davis",
+          "phone": "+44 20 1234 5679"
+        }
+      }
+    },
+    "reviews": {
+      "review_id_1": {
+        "comment": "Exciting projects and a supportive work environment",
+        "rating": 4.2,
+        "user": "user_id_1"
+      }
+    }
+  }
+}
